@@ -673,7 +673,7 @@ h1{
 }
 
 /* line 24, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_section_title.scss */
-.section_title h1 {
+.section_title h2 {
   font-size: 50px;
   line-height: 62px;
   font-weight: 700;
@@ -685,7 +685,7 @@ h1{
 
 @media (max-width: 767px) {
   /* line 24, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_section_title.scss */
-  .section_title h1 {
+  .section_title h2 {
     font-size: 30px;
     line-height: 36px;
   }
@@ -693,7 +693,7 @@ h1{
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 24, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_section_title.scss */
-  .section_title h1 {
+  .section_title h2 {
     font-size: 36px;
     line-height: 42px;
   }
@@ -701,7 +701,7 @@ h1{
 
 @media (max-width: 767px) {
   /* line 41, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_section_title.scss */
-  .section_title h1 br {
+  .section_title h2 br {
     display: none;
   }
 }
@@ -2118,7 +2118,7 @@ h1{
 }
 
 /* line 25, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_about.scss */
-.about_me .about_e_details h1 {
+.about_me .about_e_details h2 {
   font-size: 50px;
   font-weight: 700;
   color: #001D38;
